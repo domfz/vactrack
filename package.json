@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "@discordjs/rest": "^0.3.0",
+    "discord-api-types": "^0.29.0",
+    "discord.js": "^13.6.0"
+  },
+  "name": "vactrack",
+  "description": "A Discord bot written in JS to track Steam profiles for VAC bans.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/domfz/vactrack.git"
+  },
+  "author": "Dominik Fabisiewicz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/domfz/vactrack/issues"
+  },
+  "homepage": "https://github.com/domfz/vactrack#readme",
+  "devDependencies": {
+    "eslint": "^8.11.0"
+  }
+}

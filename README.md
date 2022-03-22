@@ -3,7 +3,7 @@ A Discord bot written in JS to track Steam profiles for VAC bans.
 
 # Introduction
 
-Tired of cheaters? You wan't the confirmation that the guy from last game IS cheating? A guy that stated he was better than you, giving you headshots while only one pixel was peeking out of the corner is cheating, and you know it. Keep track of his account and see when he is banned. 
+Tired of cheaters? You wan't the confirmation that the guy from last game IS cheating? A guy that stated he was better than you, giving you headshots while only one pixel was peeking out of the corner is cheating, and you know it. Keep track of his account and see when he is banned.
 
 [Discord](https://discord.com/) is a freeware, multi-platform, voice and text client which enables users to develop awesome bots for it.
 
